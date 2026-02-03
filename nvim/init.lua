@@ -105,5 +105,3 @@ vim.cmd("set completeopt+=noselect")
 
 vim.cmd("colorscheme vague")
 vim.cmd(":hi statusline guibg = NONE")
-
--- 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
